@@ -1,5 +1,5 @@
 const contactForm = document.getElementById('contact-test');
-const apiURL = 'https://us-central1-vimind-3526e.cloudfunctions.net/app/api';
+const apiURL = 'https://karen-hernandez-ginecologa.herokuapp.com/';
 const statusMessage = {
   ok: 'Datos enviados.',
   error: 'Ocurrió un error.',
